@@ -1,0 +1,5 @@
+FR-001: The system shall allow a company to create branches.
+FR-002: The system shall allow a branch to register employees.
+FR-003: The system shall assign employees to pickup points.
+FR-004: The system shall create trips.
+FR-005: The system shall assign a captain and vehicle to a trip.

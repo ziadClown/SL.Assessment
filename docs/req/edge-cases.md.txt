@@ -1,0 +1,30 @@
+ Trip:
+
+ What if:
+- vehicle capacity is full?
+    Assign new Captine with suitable capacity
+- captain is already assigned?
+    assign with new captain
+- trip is cancelled?
+    cancel routes with Captine    
+- employee is assigned twice?
+    error message and must assign once
+
+Attendace:
+
+What if:
+- employee checks in twice?
+
+- employee checks out before checking in?
+
+- network sends duplicate request?
+Must send onc API to server
+
+Wallet: 
+
+What if:
+- same payment request arrives twice?
+
+- transaction fails halfway?
+send request to API to Double check it Arrive Succesfully 
+- request is retried?

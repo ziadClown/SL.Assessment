@@ -1,0 +1,7 @@
+NFR-001: The system shall isolate data between companies.
+
+NFR-002: The API should remain responsive under concurrent requests.
+
+NFR-003: Wallet transactions must not be duplicated.
+
+NFR-004: The system should support real-time driver location updates.
